@@ -69,14 +69,14 @@ Copyright\xA9 Tim Chen
 - \u{1F4BB} **\u6975\u901F\u7684\u4F3A\u670D\u5668\u555F\u52D5** - \u63A1\u7528\u539F\u751F ES Modules\uFF0C\u7121\u9808\u6253\u5305
 - \u26A1\uFE0F **\u8F15\u91CF\u5FEB\u901F\u7684\u71B1\u91CD\u8F09(HMR)** - \u7121\u8AD6\u61C9\u7528\u7A0B\u5F0F\u5927\u5C0F\u5982\u4F55\uFF0C\u90FD\u7DAD\u6301\u6975\u5FEB\u7684\u6A21\u7D44\u71B1\u91CD\u8F09
 - \u{1F6E0}\uFE0F **\u591A\u6A23\u7684\u652F\u63F4\u6A21\u677F** - vanilla,vue,react,preact,lit,svelte
-> ![image](/framework.png)
+> ![image](framework.png)
 `,title:"\u4EC0\u9EBC\u662FVite?",level:1,content:`# \u4EC0\u9EBC\u662FVite?
 
 - \u{1F4A1}  **\u65B0\u578B\u524D\u7AEF\u5EFA\u69CB\u5DE5\u5177** - \u80FD\u986F\u8457\u63D0\u5347\u958B\u767C\u9AD4\u9A57
 - \u{1F4BB} **\u6975\u901F\u7684\u4F3A\u670D\u5668\u555F\u52D5** - \u63A1\u7528\u539F\u751F ES Modules\uFF0C\u7121\u9808\u6253\u5305
 - \u26A1\uFE0F **\u8F15\u91CF\u5FEB\u901F\u7684\u71B1\u91CD\u8F09(HMR)** - \u7121\u8AD6\u61C9\u7528\u7A0B\u5F0F\u5927\u5C0F\u5982\u4F55\uFF0C\u90FD\u7DAD\u6301\u6975\u5FEB\u7684\u6A21\u7D44\u71B1\u91CD\u8F09
 - \u{1F6E0}\uFE0F **\u591A\u6A23\u7684\u652F\u63F4\u6A21\u677F** - vanilla,vue,react,preact,lit,svelte
-> ![image](/framework.png)`,frontmatter:{},index:1,start:39,end:48,notesHTML:"",filepath:"C:\\Users\\TimChen\\Desktop\\slidev\\slides.md",id:1,no:2},__clicksElements:[],__preloaded:!1}},{path:"3",name:"page-3",component:sb,meta:{slide:{raw:`
+> ![image](framework.png)`,frontmatter:{},index:1,start:39,end:48,notesHTML:"",filepath:"C:\\Users\\TimChen\\Desktop\\slidev\\slides.md",id:1,no:2},__clicksElements:[],__preloaded:!1}},{path:"3",name:"page-3",component:sb,meta:{slide:{raw:`
 # Vite3.0\u525B\u91CB\u51FA\uFF0C\u6539\u9032\u6709\u54EA\u4E9B?
 -  \u512A\u5316\u9810\u7DE8\u8B6F\u7684\u6D41\u7A0B\uFF0C\u7E2E\u77ED\u51B7\u555F\u52D5\u7684\u6642\u9593(\u521D\u59CB\u8ACB\u6C42\u7684\u6642\u9593)
 -  \u6E1B\u5C11\u5B89\u88DD\u8207\u767C\u4F48\u7684\u6A94\u6848\u5927\u5C0F
@@ -102,14 +102,14 @@ Copyright\xA9 Tim Chen
 
 |||
 |--|--|
-| Vite ![image](/vite.gif) | Vue CLI ![image](/vuecli.gif) |
+| Vite ![image](vite.gif) | Vue CLI ![image](vuecli.gif) |
 `,title:"Vite\u548CVue CLI\u5EFA\u7F6E\u5C08\u6848\u901F\u5EA6\u6BD4\u8F03",level:1,content:`# Vite\u548CVue CLI\u5EFA\u7F6E\u5C08\u6848\u901F\u5EA6\u6BD4\u8F03
 
 |||
 |--|--|
-| Vite ![image](/vite.gif) | Vue CLI ![image](/vuecli.gif) |`,frontmatter:{},index:3,start:62,end:69,notesHTML:"",filepath:"C:\\Users\\TimChen\\Desktop\\slidev\\slides.md",id:3,no:4},__clicksElements:[],__preloaded:!1}},{path:"5",name:"page-5",component:pb,meta:{slide:{raw:`
+| Vite ![image](vite.gif) | Vue CLI ![image](vuecli.gif) |`,frontmatter:{},index:3,start:62,end:69,notesHTML:"",filepath:"C:\\Users\\TimChen\\Desktop\\slidev\\slides.md",id:3,no:4},__clicksElements:[],__preloaded:!1}},{path:"5",name:"page-5",component:pb,meta:{slide:{raw:`
 # Vite\u548CVue CLI\u521D\u59CB\u5C08\u6848\u5927\u5C0F\u6BD4\u8F03
-![image](/documentSize.png)
+![image](documentSize.png)
 
 <style>
   img{
@@ -117,7 +117,7 @@ Copyright\xA9 Tim Chen
   }
 </style>
 `,title:"Vite\u548CVue CLI\u521D\u59CB\u5C08\u6848\u5927\u5C0F\u6BD4\u8F03",level:1,content:`# Vite\u548CVue CLI\u521D\u59CB\u5C08\u6848\u5927\u5C0F\u6BD4\u8F03
-![image](/documentSize.png)
+![image](documentSize.png)
 
 <style>
   img{
